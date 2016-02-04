@@ -23,3 +23,7 @@
 .center {
   text-align: center;
 }
+
+.leaflet-control-locate a {
+  padding: 0;
+}
